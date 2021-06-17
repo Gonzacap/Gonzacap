@@ -32,8 +32,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:gonzalo.october@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=543425336567&text=Hi!)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/_weltonfelix/)](https://www.twitter.com/_weltonfelix/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/weltonpfelix/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=white&link=https://instagram.com/aliasgonzacap)](https://instagram.com/aliasgonzacap)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lopez-gonzalo/)](https://www.linkedin.com/in/lopez-gonzalo/)
+<!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&labelColor=9cf&logo=telegram&logoColor=white&link=)]()
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/)](https://www.twitter.com/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/)](https://www.facebook.com/)-->
 
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gonzacap&" alt="gonzacap" /></p>-->
