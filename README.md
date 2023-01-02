@@ -11,7 +11,7 @@
 
 - 📫 How to reach me [**gonzalo.october@gmail.com**](mailto:contato.weltonf@gmail.com)
 
-- 📄 Know about my experiences [https://gonzacap.github.io/My-Link-Tree/viewCV.html](https://gonzacap.github.io/My-Link-Tree/viewCV.html)
+- 📄 Know about my experiences in my [linkedin](https://www.linkedin.com/in/lopez-gonzalo/)
 
 - ⚡ **I like to watch series, anime and Rubik's Cube.**
 
