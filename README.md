@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzacap&label=Profile%20views&color=0e75b6&style=flat" alt="gonzacap" /> </p>
 
-- 🌱 I’m currently learning Cypress and Firebase<!--**Vue.js and GameMaker Studio**-->
+<!-- - 🌱 I’m currently learning Cypress and Firebase**Vue.js and GameMaker Studio**-->
 
 - 👨‍💻 All of my projects are available at [https://gonzacap.github.io/Portfolio-V1/](https://gonzacap.github.io/Portfolio-V1/)
 
@@ -30,7 +30,6 @@
 <h3 align="left">Connect with me:</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:gonzalo.october@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)](https://api.whatsapp.com/send?phone=543425336567&text=Hi!)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-ff69b4?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=white&link=https://www.instagram.com/gonza_lpz_22/)](https://www.instagram.com/gonza_lpz_22/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/lopez-gonzalo/)](https://www.linkedin.com/in/lopez-gonzalo/)
 <!--[![Telegram Badge](https://img.shields.io/badge/-Telegram-9cf?style=flat-square&labelColor=9cf&logo=telegram&logoColor=white&link=)]()
